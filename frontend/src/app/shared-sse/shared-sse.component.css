@@ -1,0 +1,17 @@
+.quotes-container {
+  width: 25vw;
+  height: 25vh;
+  margin: 0 10px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  width: 90%;
+  height: 90%;
+  color: black;
+  font-size: small;
+  overflow-wrap: break-word;
+  overflow: auto;
+}
